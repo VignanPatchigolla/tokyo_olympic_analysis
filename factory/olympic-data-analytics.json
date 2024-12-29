@@ -1,0 +1,9 @@
+{
+	"name": "olympic-data-analytics",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2208d8dc-466b-400b-a4b9-c0bf1013dafb",
+		"tenantId": "d4edba1f-e43a-4f21-b13a-4802f8eff9ec"
+	}
+}
