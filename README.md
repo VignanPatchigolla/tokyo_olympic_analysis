@@ -37,8 +37,8 @@ This project processes and transforms **Tokyo Olympics** data from multiple CSV 
 ## 📂 Repository Structure
 ```plain.text
 tokyo-Olympics-Data-Project/ 
-├── credential/           # Contains credential files and configurations 
-├── database/             # SQL scripts for schema validation and aggregation 
+├── credential/           # Contains synapse credential files and configurations 
+├── database/             # Contains Synapse databases  
 ├── databricks/           # Databricks notebooks for data processing 
 ├── dataset/              # Sample datasets for testing 
 ├── datasets/             # Raw datasets used in the project 
