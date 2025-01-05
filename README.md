@@ -46,7 +46,8 @@ tokyo-Olympics-Data-Project/
 ├── integrationRuntime/   # Integration runtime configurations for ADF 
 ├── linkedService/        # Linked service definitions for ADF 
 ├── pipeline/             # Pipelines for data processing 
-├── sqlscript/            # SQL scripts for data aggregation 
+├── sqlscript/            # SQL scripts for data aggregation
+├── architecture/         # Architecture diagram for the project
 └── README.md             # Project overview (this file)
 ```
 
